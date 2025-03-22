@@ -581,7 +581,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: Add meg a személyes adataid és szóba állhatsz velünk
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
