@@ -394,9 +394,7 @@ sections:
     title: null
     subtitle: Vélemyények
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: igen
         tagline: Itt lesz a helyűk..... egyszer majd csak jön 1
         subtitle: 'Maria Walters, Company'
         text: >-
