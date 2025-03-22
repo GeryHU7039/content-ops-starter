@@ -634,7 +634,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Fűzz hozzánk egy két szót
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
