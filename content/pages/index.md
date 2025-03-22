@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Akarsz valami új pólót, mert a Nike szarjaidat már kinőtted?'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
