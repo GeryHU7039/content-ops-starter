@@ -584,7 +584,7 @@ sections:
       text: Add meg a személyes adataid és szóba állhatsz velünk
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Várunk rád
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
