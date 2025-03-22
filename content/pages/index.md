@@ -396,7 +396,7 @@ sections:
     items:
       - title: igen
         tagline: Itt lesz a helyűk..... egyszer majd csak jön 1
-        subtitle: Hege
+        subtitle: Hegedűs Gergő
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
