@@ -83,7 +83,7 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Lightning bolt symbol on red back
           elementId: ''
           url: /images/icon1.svg
           styles:
