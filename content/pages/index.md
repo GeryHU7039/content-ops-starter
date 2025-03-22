@@ -10,8 +10,7 @@ sections:
     subtitle: Akkor ez neked való
     text: >
       Itt megtalálhatod a kedvenc focipillanataidat, de most már, viselheted
-      őket.
-      ![](https://preview--merchgeryhu-f398e.stackbit.dev/_static/app-assets/public/images/samplepolo.jpg)
+      őket. 
     actions:
       - label: Get started
         altText: ''
