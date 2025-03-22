@@ -136,7 +136,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Irány a kosár
         altText: ''
         url: /
         showIcon: false
