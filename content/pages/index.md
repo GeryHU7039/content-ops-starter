@@ -165,7 +165,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: 'Rengetek sponsorunk van: 0'
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
